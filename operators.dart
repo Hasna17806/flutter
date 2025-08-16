@@ -98,7 +98,8 @@
 
      //Type Test operator
 
-  void main(){
+
+void main(){
     var name ="Flutter";
     var age = 20;
     print(name is String);
@@ -106,3 +107,4 @@
     print(age is int);
     print(age is! int);
   }
+  
